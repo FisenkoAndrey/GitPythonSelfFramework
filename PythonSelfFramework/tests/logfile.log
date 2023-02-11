@@ -1,0 +1,131 @@
+2022-12-22 09:05:55,522 :INFO : utilities.BaseClass :getting all the card titles
+2022-12-22 09:05:55,571 :INFO : utilities.BaseClass :iphone X
+2022-12-22 09:05:55,613 :INFO : utilities.BaseClass :Samsung Note 8
+2022-12-22 09:05:55,656 :INFO : utilities.BaseClass :Nokia Edge
+2022-12-22 09:05:55,692 :INFO : utilities.BaseClass :Blackberry
+2022-12-22 09:05:55,932 :INFO : utilities.BaseClass :Entering country name as ind
+2022-12-22 09:06:01,283 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-22 09:13:24,220 :INFO : utilities.BaseClass :first name is firstname
+2022-12-22 09:13:24,971 :INFO : utilities.BaseClass :first name is firstname
+2022-12-22 09:13:24,971 :INFO : utilities.BaseClass :first name is firstname
+2022-12-22 09:16:49,128 :INFO : utilities.BaseClass :first name is Rahul
+2022-12-22 09:16:49,879 :INFO : utilities.BaseClass :first name is Anshika
+2022-12-22 09:16:49,879 :INFO : utilities.BaseClass :first name is Anshika
+2022-12-25 20:55:43,275 :INFO : utilities.BaseClass :getting all the card titles
+2022-12-25 20:55:43,317 :INFO : utilities.BaseClass :iphone X
+2022-12-25 20:55:43,346 :INFO : utilities.BaseClass :Samsung Note 8
+2022-12-25 20:55:43,376 :INFO : utilities.BaseClass :Nokia Edge
+2022-12-25 20:55:43,406 :INFO : utilities.BaseClass :Blackberry
+2022-12-25 20:55:43,639 :INFO : utilities.BaseClass :Entering country name as ind
+2022-12-25 20:55:49,019 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-25 20:57:22,088 :INFO : utilities.BaseClass :getting all the card titles
+2022-12-25 20:57:22,134 :INFO : utilities.BaseClass :iphone X
+2022-12-25 20:57:22,167 :INFO : utilities.BaseClass :Samsung Note 8
+2022-12-25 20:57:22,201 :INFO : utilities.BaseClass :Nokia Edge
+2022-12-25 20:57:22,234 :INFO : utilities.BaseClass :Blackberry
+2022-12-25 20:57:22,449 :INFO : utilities.BaseClass :Entering country name as ind
+2022-12-25 20:57:27,805 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-26 06:18:23,375 :INFO : utilities.BaseClass :getting all the card titles
+2022-12-26 06:18:23,435 :INFO : utilities.BaseClass :iphone X
+2022-12-26 06:18:23,471 :INFO : utilities.BaseClass :Samsung Note 8
+2022-12-26 06:18:23,509 :INFO : utilities.BaseClass :Nokia Edge
+2022-12-26 06:18:23,548 :INFO : utilities.BaseClass :Blackberry
+2022-12-26 06:18:23,809 :INFO : utilities.BaseClass :Entering country name as ind
+2022-12-26 06:18:29,139 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-25 09:24:04,521 :INFO : utilities.BaseClass :getting all the card titles
+2023-01-25 09:24:04,638 :INFO : utilities.BaseClass :iphone X
+2023-01-25 09:24:04,701 :INFO : utilities.BaseClass :Samsung Note 8
+2023-01-25 09:24:04,763 :INFO : utilities.BaseClass :Nokia Edge
+2023-01-25 09:24:04,823 :INFO : utilities.BaseClass :Blackberry
+2023-01-25 09:24:05,365 :INFO : utilities.BaseClass :Entering country name as ind
+2023-01-25 09:24:11,056 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-29 19:05:07,030 :INFO : utilities.BaseClass :first name is Rahul
+2023-01-29 19:05:08,497 :INFO : utilities.BaseClass :first name is Anshika
+2023-01-29 19:05:08,497 :INFO : utilities.BaseClass :first name is Anshika
+2023-02-01 20:30:58,558 :INFO : utilities.BaseClass :getting all the card titles
+2023-02-01 20:30:58,607 :INFO : utilities.BaseClass :iphone X
+2023-02-01 20:30:58,637 :INFO : utilities.BaseClass :Samsung Note 8
+2023-02-01 20:30:58,672 :INFO : utilities.BaseClass :Nokia Edge
+2023-02-01 20:30:58,706 :INFO : utilities.BaseClass :Blackberry
+2023-02-01 20:30:58,934 :INFO : utilities.BaseClass :Entering country name as ind
+2023-02-01 20:31:04,305 :INFO : utilities.BaseClass :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-02 09:00:39,141 :INFO : utilities.BaseClass :first name is Rahul
+2023-02-02 09:00:39,914 :INFO : utilities.BaseClass :first name is Anshika
+2023-02-02 09:00:39,914 :INFO : utilities.BaseClass :first name is Anshika
+2023-02-02 09:01:36,039 :INFO : utilities.BaseClass :first name is Rahul
+2023-02-02 09:01:36,836 :INFO : utilities.BaseClass :first name is Anshika
+2023-02-02 09:01:36,836 :INFO : utilities.BaseClass :first name is Anshika
+2023-02-02 09:56:20,278 :INFO : test_formSubmission :first name is Rahul
+2023-02-02 09:56:21,590 :INFO : test_formSubmission :first name is Anshika
+2023-02-02 09:56:21,590 :INFO : test_formSubmission :first name is Anshika
+2023-02-02 09:59:35,233 :INFO : test_formSubmission :first name is Rahul
+2023-02-02 09:59:36,863 :INFO : test_formSubmission :first name is Anshika
+2023-02-02 09:59:36,863 :INFO : test_formSubmission :first name is Anshika
+2023-02-02 10:00:32,005 :INFO : test_formSubmission :first name is Rahul
+2023-02-02 10:00:33,469 :INFO : test_formSubmission :first name is Anshika
+2023-02-02 10:00:33,469 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:26:01,198 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 09:26:01,902 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:26:01,902 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:28:11,977 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 09:28:12,623 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:28:12,623 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:36:55,527 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 09:36:56,187 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:36:56,187 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:46:32,999 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 09:46:33,671 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:46:33,671 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 09:50:17,988 :INFO : test_e2e :getting all the card titles
+2023-02-03 09:50:18,096 :INFO : test_e2e :iphone X
+2023-02-03 09:50:18,125 :INFO : test_e2e :Samsung Note 8
+2023-02-03 09:50:18,150 :INFO : test_e2e :Nokia Edge
+2023-02-03 09:50:18,174 :INFO : test_e2e :Blackberry
+2023-02-03 09:50:18,368 :INFO : test_e2e :Entering country name as ind
+2023-02-03 09:50:23,738 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-03 10:00:10,532 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 10:00:11,238 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 10:00:11,238 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 10:04:49,966 :INFO : test_formSubmission :first name is Rahul
+2023-02-03 10:04:50,626 :INFO : test_formSubmission :first name is Anshika
+2023-02-03 10:04:50,626 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 17:41:31,933 :INFO : test_formSubmission :first name is Rahul
+2023-02-09 17:41:32,691 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 17:41:32,691 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 17:47:52,539 :INFO : test_e2e :getting all the card titles
+2023-02-09 17:47:52,592 :INFO : test_e2e :iphone X
+2023-02-09 17:47:52,615 :INFO : test_e2e :Samsung Note 8
+2023-02-09 17:47:52,642 :INFO : test_e2e :Nokia Edge
+2023-02-09 17:47:52,666 :INFO : test_e2e :Blackberry
+2023-02-09 17:47:52,830 :INFO : test_e2e :Entering country name as ind
+2023-02-09 17:47:58,257 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-09 17:50:07,714 :INFO : test_formSubmission :first name is Rahul
+2023-02-09 17:50:08,444 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 17:50:08,444 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 17:50:18,525 :INFO : test_e2e :getting all the card titles
+2023-02-09 17:50:18,559 :INFO : test_e2e :iphone X
+2023-02-09 17:50:18,580 :INFO : test_e2e :Samsung Note 8
+2023-02-09 17:50:18,603 :INFO : test_e2e :Nokia Edge
+2023-02-09 17:50:18,627 :INFO : test_e2e :Blackberry
+2023-02-09 17:50:18,806 :INFO : test_e2e :Entering country name as ind
+2023-02-09 17:50:24,261 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-02-09 18:04:12,648 :INFO : test_formSubmission :first name is Rahul
+2023-02-09 18:04:13,318 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 18:04:13,318 :INFO : test_formSubmission :first name is Anshika
+2023-02-09 18:04:40,415 :INFO : test_e2e :getting all the card titles
+2023-02-09 18:04:40,452 :INFO : test_e2e :iphone X
+2023-02-09 18:04:40,472 :INFO : test_e2e :Samsung Note 8
+2023-02-09 18:04:40,490 :INFO : test_e2e :Nokia Edge
+2023-02-09 18:04:40,511 :INFO : test_e2e :Blackberry
+2023-02-09 18:04:40,679 :INFO : test_e2e :Entering country name as ind
+2023-02-09 18:04:46,136 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
